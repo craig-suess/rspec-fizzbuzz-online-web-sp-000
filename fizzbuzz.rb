@@ -12,3 +12,6 @@ def fizzbuzz(int)
     return nil; 
   end 
 end 
+
+#if the integer passed in as an argument is divisible by both 5 and 3, return Fizz + Buzz 
+#otherwise if its only 5, reutrn Buzz and if its only 3 return Fizz, if not divisible, return nil
